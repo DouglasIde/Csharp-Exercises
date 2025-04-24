@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Douglas Yugo\\Desktop\\Projetos\\Alura\\C#\\Exercicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Douglas Yugo\\Desktop\\Projetos\\Alura\\C#\\Exercicios\\OOP\\Creating my first application\\2) Notas\\Notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOP\\Creating my first application\\2) Notas\\Notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Douglas Yugo\\Desktop\\Projetos\\Alura\\C#\\Exercicios\\Desafio 1 - hello world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Desafio 1 - hello world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,26 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Notas.cs",
-              "DocumentMoniker": "C:\\Users\\Douglas Yugo\\Desktop\\Projetos\\Alura\\C#\\Exercicios\\OOP\\Creating my first application\\2) Notas\\Notas.cs",
-              "RelativeDocumentMoniker": "OOP\\Creating my first application\\2) Notas\\Notas.cs",
-              "ToolTip": "C:\\Users\\Douglas Yugo\\Desktop\\Projetos\\Alura\\C#\\Exercicios\\OOP\\Creating my first application\\2) Notas\\Notas.cs",
-              "RelativeToolTip": "OOP\\Creating my first application\\2) Notas\\Notas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T11:50:53.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "program.cs",
               "DocumentMoniker": "C:\\Users\\Douglas Yugo\\Desktop\\Projetos\\Alura\\C#\\Exercicios\\Desafio 1 - hello world\\program.cs",
               "RelativeDocumentMoniker": "Desafio 1 - hello world\\program.cs",
               "ToolTip": "C:\\Users\\Douglas Yugo\\Desktop\\Projetos\\Alura\\C#\\Exercicios\\Desafio 1 - hello world\\program.cs",
               "RelativeToolTip": "Desafio 1 - hello world\\program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T15:43:39.553Z"
+              "WhenOpened": "2025-04-21T15:43:39.553Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
