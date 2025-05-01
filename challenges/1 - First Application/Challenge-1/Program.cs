@@ -121,7 +121,18 @@ void ExibirMedia()
 
     if (bandasRegistradas.ContainsKey(nome_banda))
     {
-
+        double media = bandasRegistradas[nome_banda].Average();
+        Console.WriteLine($"A média da banda {nome_banda} é {media}");
+    } else
+    {
+        Console.WriteLine($"A banda {nome_banda} não possui avaliação!!");
     }
 
+    Console.WriteLine($"\nA banda {nome_banda} não foi encontrada!");
+    Console.WriteLine("Digite uma tecla para voltar para o menu principal");
+    Console.ReadKey();
+    Console.Clear();
+    ExibirOpcoesDoMenu();
 }
+
+ExibirOpcoesDoMenu();
